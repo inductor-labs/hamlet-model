@@ -1,5 +1,5 @@
 entryPoint: "README"
-version: "0.1.1-pre.0"
+version: "0.1.1"
 dependencies:
   core: "distri/core:v0.6.0"
-  observable: "distri/observable:v0.1.1-pre.1"
+  observable: "distri/observable:v0.1.1"
