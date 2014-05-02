@@ -1,5 +1,5 @@
 
-Model = require "../README"
+Model = require "../main"
 
 describe 'Model', ->
   # Association Testing model

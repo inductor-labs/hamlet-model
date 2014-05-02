@@ -5,7 +5,7 @@ The `compositions` module provides helper methods to compose nested data models.
 
 Compositions uses [Observable](/observable/docs) to keep the internal data in sync.
 
-    Core = require "core"
+    Core = require "./core"
     Observable = require "observable"
 
     module.exports = (I={}, self=Core(I)) ->
